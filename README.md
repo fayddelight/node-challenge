@@ -1,6 +1,6 @@
 # README
 
-Hi! To start the little application please complete the following steps:
+Hi! To start this little application please complete the following steps:
 
 - you *can* get a new API key from last.fm and replace it with the given one
 - cd to folder and install necessary dependencies 
